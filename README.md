@@ -1,2 +1,1 @@
-# weather-input-python
-quick program for geolocation
+This program uses Python to ask users for a city name. It finds the city's location and asks for weather details. Afterward, it displays the city's coordinates and the given weather information. If the city can't be found, it shows a message. This tool helps users quickly learn about a city's position and weather.
